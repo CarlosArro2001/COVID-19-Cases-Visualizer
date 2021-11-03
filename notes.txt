@@ -1,0 +1,28 @@
+-- Notes from existing project
+1. Looking at Total Cases vs Total Deaths 
+How many cases there are in "x" country and how many deaths they have for their entire cases
+E.G : They had ~1000 people who have been diagnosed and had 10 people who died who had COVID-19,
+what is the percentage of people who died who had COVID-19
+
+2.  Show what percentage of the population got COVID-19
+
+3. What country is the highest infection rate compared to the population
+
+4. Showing countries with highest death count per population
+
+5. Breaking things down by continent
+    5a) Showing  continents with the highest death count per population 
+
+6. Global Numbers 
+    6a) Total Deaths 
+    6b) Total Vaccinations 
+
+7. Total Population vs Vaccinations 
+
+8. Creating a table / df to show:
+    continent
+    Location 
+    Date 
+    New_Vaccinations 
+    RollingPeopleVaccinated 
+        
