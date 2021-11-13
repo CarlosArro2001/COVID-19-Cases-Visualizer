@@ -1,4 +1,5 @@
--- Notes from existing project
+
+-------- Notes from existing project
 1. Looking at Total Cases vs Total Deaths 
 How many cases there are in "x" country and how many deaths they have for their entire cases
 E.G : They had ~1000 people who have been diagnosed and had 10 people who died who had COVID-19,

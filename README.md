@@ -16,7 +16,4 @@ A simple visualizer for COVID-19 Cases, showing various comparisons and results 
 
 ## 2. Notebooks
 
-## 3. Applications used in the project 
-
-
-
+## 3. Applications used in the project
