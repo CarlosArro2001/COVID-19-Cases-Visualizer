@@ -15,5 +15,6 @@ A simple visualizer for COVID-19 Cases, showing various comparisons and results 
 7. Cases before vaccine vs after vaccine (full dose)
 
 ## 2. Notebooks
+1. COVID-19-Cases-Visualizer notebook on nbviewer :  https://nbviewer.org/github/CarlosArro2001/COVID-19-Cases-Visualizer/blob/main/COVID-19-Data-Notebook.ipynb
 
 ## 3. Applications used in the project
